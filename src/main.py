@@ -1,10 +1,9 @@
+# TODO: Put your names here (entire team)
+
 import pygame
 from Game import Game
 from Controller import Controller
 from View import View
-
-
-# TODO: Put your names here (entire team)
 
 
 def main():

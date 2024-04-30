@@ -1,8 +1,7 @@
+# TODO: Put your names here (entire team)
+
 import pygame
 from Game import Game
-
-
-# TODO: Put your names here (entire team)
 
 
 class View:
