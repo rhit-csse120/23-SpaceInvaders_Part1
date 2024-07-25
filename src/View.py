@@ -13,5 +13,5 @@ class View:
 
     def draw_everything(self):
         self.screen.fill(self.background_color)
-        self.game.draw_game()  # Implement draw_game in your Game class
+        self.game.draw_game()  # TODO: Implement  draw_game  in your Game class
         pygame.display.update()
